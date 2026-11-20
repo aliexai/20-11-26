@@ -6,4 +6,5 @@ int main(){
     cin>>celsius_temp;
     faranheit_temp=(float(9)/5*celsius_temp)+32;
     cout<<celsius_temp<<" Celsius Temperature = "<<faranheit_temp<<" Faranheit Temperature"<<endl;
+    return 0;
 }
